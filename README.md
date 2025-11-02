@@ -16,8 +16,7 @@
 - 🌱 Building expertise in **Java Full-Stack Development with Spring Boot, React, Microservices, and Cloud Deployment**  
 - 👀 Interested in **Open Source, Web Development, and Cloud Technologies**    
 - 💞️ Looking to collaborate on **Java, APIs, and Web Apps**  
-- 📫 Reach me: **vaibhavchougule236@gmail.com**
-- 🌐 Website: [www.vaibhavchougule.com](https://vaibhavchougule124.vercel.app/)  
+- 📫 Reach me: **omkarmundhe46@gmail.com** 
 - ⚡ Fun fact: *I love fixing bugs more than creating them 😄*  
 
 ---
