@@ -1,12 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Omkar Mundhe
+# Omkar Mundhe
 
-### Java Backend / Full-Stack Developer | Spring Boot | Microservices | AI | Data Engineering
+### Software Engineer | Java & Spring Boot | Microservices | AI | Data Engineering
+
+I build backend systems, REST APIs, microservices and AI-powered applications with a strong focus on clean architecture, reliability and practical problem solving.
 
 <p>
-  <a href="https://github.com/omkarmundhe46"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/omkarmundhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/omkarmundhe46">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/omkarmundhe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=omkarmundhe46&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -14,152 +20,170 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software developer focused on **Java/Spring Boot backend systems, REST APIs, microservices, full-stack applications, and AI-powered solutions**.
+I'm a software engineer with hands-on experience in **Java, Spring Boot, REST APIs, database integration and microservices development**.
 
-- ☕ Building applications with **Java, Spring Boot, Spring Security, JPA/Hibernate and REST APIs**
-- 🧩 Designing **microservices** with Spring Cloud, Eureka, Gateway, Feign and Kafka
-- 📱 Building interfaces with **React, Flutter, Angular, JavaScript and TypeScript**
-- ☁️ Working with **AWS, Docker, PostgreSQL, MySQL, MongoDB, Redis and Kafka**
-- 🤖 Exploring **Generative AI, LLMs, Spring AI, Ollama, prompt engineering and RAG**
-- ⚡ Currently strengthening **Python, SQL, Apache Spark/PySpark, AWS and Data Engineering**
-- 📚 Improving **DSA, System Design, distributed systems and cloud-native development**
+My current engineering focus is expanding from backend development into **Data Engineering**, with active learning in **Python, SQL, Apache Spark/PySpark, AWS and Databricks**. I also enjoy building applications that combine traditional backend engineering with **Generative AI and LLM technologies**.
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-`Java` `Python` `JavaScript` `TypeScript` `C` `HTML` `CSS` `Dart`
-
-### Backend
-`Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Cloud` `Eureka` `Spring Cloud Gateway` `Feign`
-
-### Frontend / Mobile
-`React` `Angular` `Tailwind CSS` `Flutter`
-
-### Databases / Messaging / Data
-`MySQL` `PostgreSQL` `MongoDB` `Redis` `Apache Kafka` `RabbitMQ` `SQL` `PySpark`
-
-### Cloud / DevOps
-`AWS` `Docker` `Docker Compose` `Git` `GitHub` `Maven` `Postman`
-
-### AI / GenAI
-`Spring AI` `Ollama` `DeepSeek-R1` `LLM Concepts` `Prompt Engineering` `RAG` `AI-assisted Development`
+- ☕ **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs
+- 🧩 **Distributed Systems:** Microservices, Spring Cloud, Eureka, API Gateway, Feign, Kafka
+- 🗄️ **Data:** MySQL, PostgreSQL, MongoDB, Redis, SQL
+- ☁️ **Cloud & DevOps:** AWS, Docker, Docker Compose, Maven, Git/GitHub
+- 🤖 **AI:** Spring AI, Ollama, DeepSeek-R1, prompt engineering, RAG concepts
+- 📊 **Data Engineering:** Python, SQL, Spark/PySpark and Databricks fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL, C, Dart |
+| **Backend** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs |
+| **Microservices** | Spring Cloud, Eureka, API Gateway, OpenFeign, Kafka |
+| **Frontend / Mobile** | React, Angular, Flutter, Tailwind CSS, HTML, CSS |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
+| **Cloud / DevOps** | AWS, Docker, Docker Compose, Maven, Git, GitHub, Postman |
+| **AI / GenAI** | Spring AI, Ollama, DeepSeek-R1, LLM concepts, Prompt Engineering, RAG |
+| **Data Engineering** | Python, SQL, Apache Spark, PySpark, Databricks fundamentals |
+
+---
+
+## Featured Projects
 
 ### 🎓 ConnectedU — Smart Club & Event Coordination Platform
 
-A **Spring Boot microservices + Flutter** platform for college clubs, events, discussions, certificates, notifications and payments.
+A **Spring Boot microservices + Flutter** platform designed for college clubs, events, discussions, certificates, notifications and payments.
 
-**Highlights:** JWT/RBAC, Eureka service discovery, API Gateway, Feign, Kafka event-driven workflows, WebSocket real-time chat, AWS S3, Razorpay and JasperReports.
+**Key engineering areas:**
+- Microservices architecture with **Eureka, API Gateway and Feign**
+- **Kafka** for event-driven workflows
+- **WebSocket** for real-time communication
+- **JWT/RBAC** for application security
+- **AWS S3** for object storage
+- **Razorpay** for payments
+- **JasperReports** for report generation
 
 **Stack:** `Java 21` `Spring Boot` `Spring Cloud` `Eureka` `Gateway` `Feign` `Kafka` `WebSocket` `MySQL` `AWS S3` `Flutter`
 
-🔗 [View Repository](https://github.com/omkarmundhe46/ConnectEdu)
+[View Repository →](https://github.com/omkarmundhe46/ConnectEdu)
 
 ---
 
 ### 🤖 AI Resume Maker
 
-An AI-powered resume builder using **React/Vite + Spring Boot + Spring AI + Ollama/DeepSeek-R1** to transform professional descriptions into structured, editable resume content.
+An AI-powered resume builder that combines a **React/Vite frontend** with a **Spring Boot + Spring AI backend** and local LLM inference through **Ollama / DeepSeek-R1**.
 
-**Highlights:** structured AI output, prompt engineering, dynamic resume forms, preview, PDF/print support and local LLM inference.
+**Highlights:**
+- Prompt-driven generation of structured resume content
+- AI-assisted editing workflow
+- Dynamic resume forms and preview
+- PDF / print support
+- Local LLM integration for development and experimentation
 
 **Stack:** `Java 21` `Spring Boot` `Spring AI` `Ollama` `DeepSeek-R1` `React` `Vite` `Tailwind CSS`
 
-🔗 [View Repository](https://github.com/omkarmundhe46/AI-RESUME-MAKER)
+[View Repository →](https://github.com/omkarmundhe46/AI-RESUME-MAKER)
 
 ---
 
-### 📇 ContactSphere — Contact Manager
+### 📇 ContactSphere — Cloud Contact Manager
 
-A full-stack **Spring Boot + Thymeleaf** contact management application with authentication, OAuth2 login, email workflows, PostgreSQL persistence, Cloudinary and Docker support.
+A full-stack **Spring Boot + Thymeleaf** contact management application with authentication workflows, OAuth2 login, PostgreSQL persistence, email functionality, cloud image handling and Docker support.
 
-**Highlights:** Google/GitHub OAuth2, email verification, password reset, contact CRUD, favorites, search/pagination and cloud image handling.
+**Highlights:**
+- Google/GitHub OAuth2 integration
+- Email verification and password-reset workflows
+- Contact CRUD, favorites, search and pagination
+- Cloudinary-based image handling
+- Docker-based application packaging
 
 **Stack:** `Java 21` `Spring Boot` `Spring Security` `Thymeleaf` `PostgreSQL` `Cloudinary` `Docker`
 
-🔗 [View Repository](https://github.com/omkarmundhe46/CONTACTSPHERE-THE-CONTACT-MANAGER)
+[View Repository →](https://github.com/omkarmundhe46/CONTACTSPHERE-THE-CONTACT-MANAGER)
 
 ---
 
-### 🛒 SwiftCart — E-Commerce Application
+### 🛒 SwiftCart — E-Commerce Platform
 
-A separated **React frontend + Spring Boot backend** e-commerce application demonstrating REST APIs, state management, validation and persistence.
+A separated **React frontend + Spring Boot backend** e-commerce application demonstrating REST API development, validation, persistence and frontend state management.
 
 **Stack:** `Java 21` `Spring Boot` `Spring Data JPA` `MySQL` `React` `Redux Toolkit` `Redux Saga`
 
-🔗 [Backend](https://github.com/omkarmundhe46/SwiftCart_Backend) · [Frontend](https://github.com/omkarmundhe46/SwiftCart_Frontend)
+[Backend →](https://github.com/omkarmundhe46/SwiftCart_Backend) · [Frontend →](https://github.com/omkarmundhe46/SwiftCart_Frontend)
 
 ---
 
-### 📚 LearnHub / E-Learning Microservices
+### 📚 LearnHub — E-Learning Microservices
 
-A microservices-based e-learning ecosystem covering course, category, video, gateway, service discovery and supporting infrastructure.
+A microservices-based e-learning system covering course, category and video services with service discovery, API gateway and supporting infrastructure.
 
 **Stack:** `Spring Boot` `Spring Cloud` `Eureka` `Gateway` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Docker Compose`
 
-🔗 [View Repository](https://github.com/omkarmundhe46/Elearning-App-Microservices)
+[View Repository →](https://github.com/omkarmundhe46/Elearning-App-Microservices)
 
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 ```text
-Java / Python
-     ↓
-Backend & REST APIs
-     ↓
-Spring Boot + Security + Data Access
-     ↓
-Microservices + Distributed Systems
-     ↓
-Kafka + Redis + Containers
-     ↓
-AWS / Cloud Deployment
-     ↓
-AI & Data Engineering
+Java / Spring Boot
+        ↓
+REST APIs & Data Access
+        ↓
+Microservices & Distributed Systems
+        ↓
+Kafka / Redis / Docker
+        ↓
+AWS & Cloud Deployment
+        ↓
+AI + Data Engineering
 ```
 
-I enjoy working across the development lifecycle — **designing APIs, implementing business logic, integrating databases, securing applications, building distributed services, containerizing workloads and preparing systems for cloud deployment**.
+I enjoy solving problems across the development lifecycle — from **API design and business logic** to **database integration, service communication, containerization and cloud deployment**.
 
 ---
 
-## 📊 GitHub Analytics
+## Current Focus
+
+I'm currently investing more time in **Data Engineering** while continuing to strengthen my backend foundation.
+
+- 🐍 Python for data processing and automation
+- 🧮 SQL, joins, aggregations and analytical querying
+- ⚡ Apache Spark / PySpark
+- ☁️ AWS fundamentals for data workloads
+- 🧱 Databricks and modern data-platform concepts
+- ☕ Advanced Java, Spring Boot and microservices
+- 🧠 DSA, System Design and distributed systems
+- 🤖 Generative AI, LLMs, RAG and AI-assisted development
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarmundhe46&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarmundhe46&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmundhe46&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omkarmundhe46&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=omkarmundhe46&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 🎯 Current Learning & Goals
+## Let's Connect
 
-- ☕ Advanced **Java, Spring Boot & Spring Security**
-- 🧱 **Microservices, distributed systems & System Design**
-- ☁️ **AWS, Docker & Kubernetes**
-- 🧮 **DSA & problem solving**
-- 🐍 **Python & SQL for Data Engineering**
-- ⚡ **Apache Spark / PySpark & Databricks fundamentals**
-- 🤖 **Generative AI, LLMs, RAG & AI agents**
-
----
-
-## 🤝 Let's Connect
+I'm open to opportunities and conversations around **Java Backend Development, Full-Stack Engineering, Microservices and Data Engineering**.
 
 <p>
-  <a href="https://www.linkedin.com/in/omkarmundhe"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/omkarmundhe46"><img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/omkarmundhe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/omkarmundhe46">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-> **Build. Debug. Learn. Improve. Repeat. 🚀**
+> **Build with purpose. Learn continuously. Ship better software. 🚀**
