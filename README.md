@@ -1,83 +1,191 @@
-<h1 align="center">Hi 👋, I'm Omkar Mundhe</h1>
-<h3 align="center">🚀 Passionate Software Developer | Java Full-Stack Enthusiast </h3>
+<div align="center">
+
+# Hi 👋, I'm Omkar Mundhe
+
+### Java Backend & Full-Stack Developer | Spring Boot | Microservices | AI Applications
+
+<p>
+  <a href="https://github.com/omkarmundhe46">
+    <img src="https://komarev.com/ghpvc/?username=omkarmundhe46&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/omkarmundhe46?label=Followers&style=flat" alt="GitHub followers" />
+  <a href="https://linkedin.com/in/omkarmundhe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer focused on building **Java and Spring Boot applications, REST APIs, microservices, and AI-powered solutions**.
+
+- 🔭 Building scalable backend and full-stack applications with **Java, Spring Boot, React, and microservices**
+- 🧩 Interested in **distributed systems, cloud deployment, API design, and clean architecture**
+- 🤖 Exploring **Generative AI, LLMs, prompt engineering, and AI-assisted application development**
+- ☁️ Working with **Docker, AWS, PostgreSQL, MySQL, MongoDB, Redis, Kafka, and Spring Cloud**
+- 📚 Strengthening **Data Structures & Algorithms, System Design, and cloud-native development**
+- 🤝 Open to collaborating on **Java, Spring Boot, backend, microservices, and AI projects**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,html,css" alt="Languages" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" alt="Backend technologies" />
+</p>
+
+**Spring Boot · Spring MVC · Spring Security · Spring Data JPA · REST APIs · Hibernate · Spring Cloud · Eureka · Spring Cloud Gateway**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind" alt="Frontend technologies" />
+</p>
+
+### Databases & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" alt="Databases and messaging" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,maven,idea" alt="Cloud and tools" />
+</p>
+
+### AI / GenAI
+
+**Spring AI · Ollama · DeepSeek-R1 · LLM concepts · Prompt Engineering · RAG concepts · AI-assisted development**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Maker
+
+AI-powered resume generation application combining a **React/Vite frontend** with a **Spring Boot + Spring AI backend** and local **Ollama / DeepSeek-R1** inference.
+
+**Highlights:** structured AI-generated resume data, editable forms, resume preview, PDF/print-oriented export, prompt-driven generation, and local/private LLM inference.
+
+**Stack:** `Java 21` `Spring Boot` `Spring AI` `Ollama` `DeepSeek-R1` `React` `Vite` `Tailwind CSS`
+
+🔗 [View Repository](https://github.com/omkarmundhe46/AI-RESUME-MAKER)
+
+---
+
+### 📇 ContactSphere — Contact Manager
+
+A full-stack **Spring Boot + Thymeleaf** contact management application with authentication, email workflows, OAuth2 login, Cloudinary image handling, PostgreSQL persistence, and Docker support.
+
+**Highlights:** secure login flow, Google/GitHub OAuth2, email verification and password reset workflows, contact CRUD, favorites, search/pagination, and cloud image storage.
+
+**Stack:** `Java 21` `Spring Boot` `Spring Security` `Thymeleaf` `PostgreSQL` `Cloudinary` `Docker`
+
+🔗 [View Repository](https://github.com/omkarmundhe46/CONTACTSPHERE-THE-CONTACT-MANAGER)
+
+---
+
+### 🌱 ShambaSmart Microservices
+
+A modular **Spring Boot microservices platform** for agriculture-focused workflows, organized around independent business services and shared infrastructure.
+
+**Highlights:** service discovery, API gateway, multiple domain microservices, centralized configuration, PostgreSQL, Kafka-based messaging support, actuator/observability foundations, and Docker-oriented deployment.
+
+**Stack:** `Java 17` `Spring Boot` `Spring Cloud` `Eureka` `Gateway` `PostgreSQL` `Kafka` `Docker`
+
+🔗 [View Repository](https://github.com/omkarmundhe46/ShambaSmart_Microservices)
+
+---
+
+### 🛒 SwiftCart — E-Commerce Application
+
+A separated **React frontend + Spring Boot backend** e-commerce project with a modern state-management layer and a REST-oriented backend.
+
+**Highlights:** React Router, Redux Toolkit, Redux Saga, form validation, Spring Data JPA, validation, MySQL persistence, and actuator-based backend monitoring.
+
+**Stack:** `Java 21` `Spring Boot` `Spring Data JPA` `MySQL` `React` `Redux Toolkit` `Redux Saga`
+
+🔗 [Backend](https://github.com/omkarmundhe46/SwiftCart_Backend) · [Frontend](https://github.com/omkarmundhe46/SwiftCart_Frontend)
+
+---
+
+### 📚 LearnHub / E-Learning Microservices
+
+A microservices-based e-learning ecosystem covering course, category, video, gateway, discovery, and supporting infrastructure components.
+
+**Stack:** `Spring Boot` `Spring Cloud` `Eureka` `Gateway` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ` `Docker Compose`
+
+🔗 [View Repository](https://github.com/omkarmundhe46/Elearning-App-Microservices)
+
+---
+
+## 🧠 What I Build
+
+```text
+Java Applications
+      ↓
+Spring Boot REST APIs
+      ↓
+Security + Data Access
+      ↓
+Microservices + Service Discovery
+      ↓
+Messaging / Caching / Containers
+      ↓
+Cloud Deployment
+      ↓
+AI-assisted Features
+```
+
+I enjoy working across the full lifecycle — **designing APIs, implementing business logic, integrating databases, securing applications, containerizing services, and preparing systems for cloud deployment**.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarmundhe46&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/omkarmundhe46?label=Followers&style=social" alt="followers" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarmundhe46&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmundhe46&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+  <img src="https://streak-stats.demolab.com?user=omkarmundhe46&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🌟 About Me  
-- 🌱 Building expertise in **Java Full-Stack Development with Spring Boot, React, Microservices, and Cloud Deployment**  
-- 👀 Interested in **Open Source, Web Development, and Cloud Technologies**    
-- 💞️ Looking to collaborate on **Java, APIs, and Web Apps**  
-- ⚡ Fun fact: *I love fixing bugs more than creating them 😄*  
+## 🎯 Current Focus
+
+- ☕ Advanced **Java & Spring Boot**
+- 🧱 **Microservices architecture & distributed systems**
+- ☁️ **AWS, Docker & cloud deployment**
+- 🧮 **DSA & System Design**
+- ⚡ **PySpark / Apache Spark and Data Engineering fundamentals**
+- 🤖 **Generative AI, LLMs, RAG and AI agents**
 
 ---
 
-### 🤝 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/omkarmundhe" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a></p>
+## 🤝 Let's Connect
 
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="sql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-
-  <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="40" height="40"/> 
-
+<p>
+  <a href="https://www.linkedin.com/in/omkarmundhe">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/omkarmundhe46">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarmundhe46&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=omkarmundhe46&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&currStreakNum=fff&currStreakLabel=fff&background=141321" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarmundhe46&show_icons=true&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-
----
-
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarmundhe46&theme=react-dark&bg_color=141321&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-
-
-### 🏆 Achievements     
-- 🌟 Building **Full-Stack projects (Spring Boot + React)**  
-  
-
----
-
-<h3 align="center">✨ “Code. Debug. Improve. Repeat.” ✨</h3>
+> **Code. Debug. Improve. Repeat.** 🚀
