@@ -2,7 +2,7 @@
 
 # Omkar Mundhe
 
-### Software Engineer | Java & Spring Boot | Microservices | AI | Data Engineering
+### Software Engineer | Java & Spring Boot | Microservices
 
 I build backend systems, REST APIs, microservices and AI-powered applications with a strong focus on clean architecture, reliability and practical problem solving.
 
