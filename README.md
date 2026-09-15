@@ -4,7 +4,7 @@
 
 ### Software Engineer | Java & Spring Boot | Microservices
 
-I build backend systems, REST APIs, microservices and AI-powered applications with a strong focus on clean architecture, reliability and practical problem solving.
+I build backend systems, REST APIs and microservices with a strong focus on clean architecture, reliability and practical problem solving.
 
 <p>
   <a href="https://github.com/omkarmundhe46">
@@ -24,14 +24,15 @@ I build backend systems, REST APIs, microservices and AI-powered applications wi
 
 I'm a software engineer with hands-on experience in **Java, Spring Boot, REST APIs, database integration and microservices development**.
 
-My current engineering focus is expanding from backend development into **Data Engineering**, with active learning in **Python, SQL, Apache Spark/PySpark, AWS and Databricks**. I also enjoy building applications that combine traditional backend engineering with **Generative AI and LLM technologies**.
+I enjoy designing backend applications, building service-oriented systems and working across the development lifecycle — from API design and business logic to database integration, security, containerization and deployment.
 
 - ☕ **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs
-- 🧩 **Distributed Systems:** Microservices, Spring Cloud, Eureka, API Gateway, Feign, Kafka
-- 🗄️ **Data:** MySQL, PostgreSQL, MongoDB, Redis, SQL
-- ☁️ **Cloud & DevOps:** AWS, Docker, Docker Compose, Maven, Git/GitHub
-- 🤖 **AI:** Spring AI, Ollama, DeepSeek-R1, prompt engineering, RAG concepts
-- 📊 **Data Engineering:** Python, SQL, Spark/PySpark and Databricks fundamentals
+- 🧩 **Microservices:** Spring Cloud, Eureka, API Gateway, OpenFeign, Kafka
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- 🎨 **Frontend:** React, Angular, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- 📱 **Mobile:** Flutter, Dart
+- ☁️ **Cloud & DevOps:** AWS, Docker, Docker Compose, Maven, Git/GitHub, Postman
+- 🧠 **Core:** OOP, DSA, System Design, Design Patterns, Problem Solving
 
 ---
 
@@ -39,14 +40,13 @@ My current engineering focus is expanding from backend development into **Data E
 
 | Area | Technologies |
 |---|---|
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL, C, Dart |
+| **Languages** | Java, JavaScript, TypeScript, SQL, C, Dart |
 | **Backend** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs |
 | **Microservices** | Spring Cloud, Eureka, API Gateway, OpenFeign, Kafka |
 | **Frontend / Mobile** | React, Angular, Flutter, Tailwind CSS, HTML, CSS |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
 | **Cloud / DevOps** | AWS, Docker, Docker Compose, Maven, Git, GitHub, Postman |
-| **AI / GenAI** | Spring AI, Ollama, DeepSeek-R1, LLM concepts, Prompt Engineering, RAG |
-| **Data Engineering** | Python, SQL, Apache Spark, PySpark, Databricks fundamentals |
+| **Core Concepts** | OOP, DSA, System Design, Design Patterns, SDLC |
 
 ---
 
@@ -68,23 +68,6 @@ A **Spring Boot microservices + Flutter** platform designed for college clubs, e
 **Stack:** `Java 21` `Spring Boot` `Spring Cloud` `Eureka` `Gateway` `Feign` `Kafka` `WebSocket` `MySQL` `AWS S3` `Flutter`
 
 [View Repository →](https://github.com/omkarmundhe46/ConnectEdu)
-
----
-
-### 🤖 AI Resume Maker
-
-An AI-powered resume builder that combines a **React/Vite frontend** with a **Spring Boot + Spring AI backend** and local LLM inference through **Ollama / DeepSeek-R1**.
-
-**Highlights:**
-- Prompt-driven generation of structured resume content
-- AI-assisted editing workflow
-- Dynamic resume forms and preview
-- PDF / print support
-- Local LLM integration for development and experimentation
-
-**Stack:** `Java 21` `Spring Boot` `Spring AI` `Ollama` `DeepSeek-R1` `React` `Vite` `Tailwind CSS`
-
-[View Repository →](https://github.com/omkarmundhe46/AI-RESUME-MAKER)
 
 ---
 
@@ -137,26 +120,22 @@ Microservices & Distributed Systems
 Kafka / Redis / Docker
         ↓
 AWS & Cloud Deployment
-        ↓
-AI + Data Engineering
 ```
 
-I enjoy solving problems across the development lifecycle — from **API design and business logic** to **database integration, service communication, containerization and cloud deployment**.
+I focus on building maintainable backend systems with clear architecture, secure APIs, reliable service communication and production-oriented development practices.
 
 ---
 
 ## Current Focus
 
-I'm currently investing more time in **Data Engineering** while continuing to strengthen my backend foundation.
-
-- 🐍 Python for data processing and automation
-- 🧮 SQL, joins, aggregations and analytical querying
-- ⚡ Apache Spark / PySpark
-- ☁️ AWS fundamentals for data workloads
-- 🧱 Databricks and modern data-platform concepts
-- ☕ Advanced Java, Spring Boot and microservices
+- ☕ Advanced Java and Spring Boot
+- 🧩 Microservices architecture and Spring Cloud
+- 🔐 Spring Security, JWT and OAuth2
+- ⚡ Kafka and event-driven architecture
+- 🐳 Docker and containerized deployments
+- ☁️ AWS and cloud deployment
 - 🧠 DSA, System Design and distributed systems
-- 🤖 Generative AI, LLMs, RAG and AI-assisted development
+- ⚛️ React and modern frontend development
 
 ---
 
@@ -175,7 +154,7 @@ I'm currently investing more time in **Data Engineering** while continuing to st
 
 ## Let's Connect
 
-I'm open to opportunities and conversations around **Java Backend Development, Full-Stack Engineering, Microservices and Data Engineering**.
+I'm open to opportunities and conversations around **Java Backend Development, Full-Stack Engineering, Spring Boot and Microservices**.
 
 <p>
   <a href="https://www.linkedin.com/in/omkarmundhe">
